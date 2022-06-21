@@ -15,6 +15,7 @@ The service will fetch at the start of each minute. It will sound an alarm 15 mi
 - [Develop Google Calendar solutions](https://developers.google.com/calendar) - Overview of enhancing and automating the Google Calendar experience.
 - [OAuth Playground](https://developers.google.com/oauthplayground/)
 - [An Introduction to OAuth 2](https://www.digitalocean.com/community/tutorials/an-introduction-to-oauth-2) - An overview of OAuth 2 roles, authorization grant types, use cases, and flows.
+- [How to authenticate and access Google APIs using OAuth 2.0](https://blog.logrocket.com/how-to-authenticate-access-google-apis-using-oauth-2-0/) - How to authenticate with Google using TypeScript, and how to use the acquired refresh token to access the Google Calendar API. 
 - [Using OAuth 2.0 for Web Server Applications](https://developers.google.com/identity/protocols/oauth2/web-server) - How to configure OAuth.
 - [Send GET Request with HTTP / Webhook APIon New or Updated Event (Instant) from Google Calendar API](https://pipedream.com/apps/google-calendar/integrations/http/get-request-with-http-webhook-api-on-new-or-updated-event-instant-from-google-calendar-api-int_EzsYAz) - 3rd party solution(pipedream).
 - [How to Integrate The Google Calendar API Into Your Web Application](https://qalbit.com/blog/how-to-integrate-the-google-calendar-api-into-your-web-application/) - 3rd party solution(qalbit).
