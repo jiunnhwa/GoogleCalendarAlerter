@@ -4,7 +4,7 @@ Uses OAuth2, it will get authorization token from web, if none exists, and saves
 The service will fetch at the start of each minute.
 
 
-## Screen Capture - Retrieves events up till tomorrow every minute. ##
+## Screen Capture - Retrieves upcoming events up till tomorrow every minute. ##
 ![Fetch Events](https://github.com/jiunnhwa/GoogleCalendarAlerter/blob/main/20220621%20MyGoogleCalAlerter.gif?raw=true "Send OTP")
 
 
