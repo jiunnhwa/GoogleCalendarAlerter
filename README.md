@@ -1,5 +1,12 @@
 # GoogleCalendarAlerter
 A console golang program to retrieve upcoming events from google calendar, and sounds an alarm on event time.
+Uses OAuth2, it will get authorization token from web, if none exists, and saves the refresh token on file to renew expiration.
+The service will fetch at the start of each minute.
+
+
+## Screen Capture - Retrieves events up till tomorrow every minute. ##
+![Fetch Events](https://github.com/jiunnhwa/GoogleCalendarAlerter/blob/main/20220621%20MyGoogleCalAlerter.gif?raw=true "Send OTP")
+
 
 
 ## Research Notes: ##
